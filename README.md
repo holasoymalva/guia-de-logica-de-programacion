@@ -1,1 +1,1 @@
-# guia-de-logica-de-programacion
+# Guia Practica de logica de programacion
