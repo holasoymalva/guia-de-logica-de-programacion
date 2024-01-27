@@ -1,4 +1,4 @@
-# Guia Practica de logica de programacion
+# Guía Práctica de Lógica de Programación con Python
 
 ## Introducción
 Este repositorio es una guía práctica destinada a aquellos interesados en aprender y mejorar sus habilidades en la lógica de programación utilizando Python. Ideal tanto para principiantes que están dando sus primeros pasos en la programación, como para programadores más experimentados que buscan afianzar sus conocimientos en Python y en las bases de la lógica de programación.
