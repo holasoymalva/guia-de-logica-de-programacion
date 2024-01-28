@@ -37,11 +37,10 @@ Este repositorio es una guía práctica destinada a aquellos interesados en apre
 * [Trabajando con Archivos](./07-archivos)
   * Lectura y Escritura de Archivos
   * Manejo de Archivos con Context Managers
-
 * [Recursos Adicionales](#recursos-adicionales)
- * Libros y Tutoriales Recomendados
- * Herramientas y Entornos de Desarrollo
- * Comunidades y Foros de Soporte
+  * Libros y Tutoriales Recomendados
+  * Herramientas y Entornos de Desarrollo
+  * Comunidades y Foros de Soporte
 
 ## Recursos Adicionales
 
