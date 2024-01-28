@@ -40,3 +40,5 @@ Crear un programa "Hola Mundo" es una tradición en el aprendizaje de un nuevo l
 Verás `Hola Mundo` impreso en la terminal.
 
 ¡Felicidades! Acabas de escribir y ejecutar tu primer programa en Python. Este es solo el comienzo de lo que puedes hacer con este versátil lenguaje. A medida que profundices en sus características, encontrarás que Python ofrece una combinación única de simplicidad y potencia, abriendo un mundo de posibilidades en el campo de la programación.
+
+# [🏠 Indice](../)
