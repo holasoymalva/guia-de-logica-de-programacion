@@ -63,7 +63,7 @@ resultado = operacion(5, 3, suma)
 print(resultado)  # Salida: 8
 ```
 
-### Recursión de Funciones
+## Recursión de Funciones
 
 La recursión es un concepto poderoso en la programación, y en Python, se maneja de manera elegante y eficiente a través de funciones recursivas. La recursión ocurre cuando una función se llama a sí misma dentro de su definición. Aunque puede ser un concepto desafiante al principio, la recursión es una herramienta valiosa, especialmente útil en problemas que pueden descomponerse en subproblemas más simples de la misma naturaleza.
 
@@ -71,6 +71,39 @@ La recursión es un concepto poderoso en la programación, y en Python, se manej
 
 La recursión es un método de resolución de problemas donde la solución a un problema depende de las soluciones a instancias más pequeñas del mismo problema. En términos de programación, una función recursiva es aquella que se llama a sí misma para resolver un problema más pequeño.
 
+### Estructura de una Función Recursiva
+Una función recursiva en Python tiene dos partes fundamentales:
+
+1. **Caso Base**: Es el escenario sin recursión que detiene la recursión. Es esencial para evitar un ciclo infinito.
+
+2. **Llamada Recursiva**: Es donde la función se llama a sí misma con diferentes argumentos.
+
+### Ejemplo Práctico: Factorial de un Número
+
+Un ejemplo clásico de recursión es el cálculo del factorial de un número. El factorial de un número `n` (denotado como `n!` ) es el producto de todos los números positivos hasta `n`. Por ejemplo, `5! = 5 x 4 x 3 x 2 x 1`.
+
+```python
+def factorial(n):
+    # Caso Base
+    if n == 1:
+        return 1
+    # Llamada Recursiva
+    else:
+        return n * factorial(n - 1)
+
+print(factorial(5))  # Salida: 120
+```
+
+En este ejemplo, la función `factorial` se llama a sí misma con un valor decreciente de `n` hasta que alcanza el caso base (cuando `n` es 1).
+
+### Ventajas y Desventajas de la Recursión
+#### Ventajas
+* **Simplicidad** : La recursión puede simplificar el código necesario para resolver problemas complejos.
+* **Elegancia** : A menudo, las soluciones recursivas son más elegantes y fáciles de entender que sus contrapartes iterativas
+
+#### Desventajas
+* **Eficiencia** : La recursión puede ser menos eficiente en términos de memoria y tiempo de ejecución, debido a las múltiples llamadas a funciones.
+* **Riesgo de Ciclos Infinitos** : Si no se maneja correctamente el caso base, puede resultar en una recursión infinita, llevando a errores de "stack overflow".
 
 ### Conclusión
 
