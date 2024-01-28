@@ -6,7 +6,7 @@ Una función es un bloque de código que se organiza y utiliza para realizar una
 
 ## Definición de una Función
 Aquí hay un ejemplo simple de cómo definir una función en Python:
-```
+```python
 def saludo(nombre):
     return "Hola, " + nombre
 ```
@@ -15,7 +15,7 @@ En este ejemplo, saludo es una función que toma un argumento nombre y devuelve 
 
 Llamada a una Función
 Después de definir una función, se puede llamar desde cualquier parte del programa pasando los argumentos requeridos.
-```
+```python
 mensaje = saludo("Alice")
 print(mensaje)  # Salida: Hola, Alice
 ```
@@ -27,7 +27,7 @@ Parámetro: Es una variable en la declaración de la función.
 Argumento: Es el dato que se pasa a la función cuando se llama.
 Parámetros Predeterminados
 Python permite definir funciones con parámetros predeterminados, lo que significa que si no se pasa un argumento para ese parámetro, se usará un valor por defecto.
-```
+```python
 def saludo(nombre="Mundo"):
     return "Hola, " + nombre
 ```
@@ -36,7 +36,7 @@ print(saludo("Alice"))  # Salida: Hola, Alice
 
 ## Valores de Retorno
 Las funciones pueden devolver valores. El uso de return en una función permite enviar el resultado de vuelta al punto donde se llamó a la función.
-```
+```python
 def suma(a, b):
     return a + b
 
@@ -47,7 +47,7 @@ Funciones como Objetos de Primera Clase
 En Python, las funciones son objetos de primera clase. Esto significa que pueden ser pasadas como argumentos a otras funciones, devueltas como valores por otras funciones, y asignadas a variables.
 
 Ejemplo de Función de Orden Superior
-```
+```python
 def operacion(a, b, func):
     return func(a, b)
 
