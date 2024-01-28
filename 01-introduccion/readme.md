@@ -14,9 +14,9 @@ Para empezar con Python, lo primero es instalarlo en tu sistema. Python se puede
 
 1. **Descarga Python**: Visita el sitio web oficial de Python en [python.org](https://www.python.org/) y descarga la última versión de Python. Asegúrate de seleccionar la versión adecuada para tu sistema operativo.
 
-2. **Instalación**: Ejecuta el instalador descargado. En Windows, es importante marcar la opción “Add Python to PATH” antes de hacer clic en “Install Now”. En macOS y Linux, Python generalmente viene preinstalado.
+2. **Instalación**: Ejecuta el instalador descargado. En Windows, es importante marcar la opción “Add Python to PATH” antes de hacer clic en ` “Install Now” `. En macOS y Linux, Python generalmente viene preinstalado.
 
-3. **Verificación de la Instalación**: Para verificar que Python se instaló correctamente, abre la terminal o línea de comandos y escribe python --version (o python3 --version en algunas distribuciones de Linux). Deberías ver el número de versión de Python.
+3. **Verificación de la Instalación**: Para verificar que Python se instaló correctamente, abre la terminal o línea de comandos y escribe ` python --version ` (o ` python3 --version ` en algunas distribuciones de Linux). Deberías ver el número de versión de Python.
 
 4. **Instalación de un Editor de Código**: Aunque puedes escribir código Python en cualquier editor de texto, se recomienda usar un entorno de desarrollo integrado (IDE) o un editor de código como Visual Studio Code, PyCharm, o Jupyter Notebook para una mejor experiencia de programación.
 
