@@ -26,16 +26,16 @@ Crear un programa "Hola Mundo" es una tradición en el aprendizaje de un nuevo l
 
 ### Escribe el Programa:
 
-1. Abre tu editor de código o IDE.
-2. Crea un nuevo archivo y llámalo hola_mundo.py.
-3. Escribe el siguiente código:  ``` print("Hola Mundo") ```
+1. Abre tu editor de código o IDE
+2. Crea un nuevo archivo y llámalo ` hola_mundo.py ` 
+3. Escribe el siguiente código:  ` print("Hola Mundo") `
 
 ### Ejecución:
 
 1. Guarda el archivo.
 2. Abre la terminal o línea de comandos.
 3. Navega hasta el directorio donde guardaste el archivo.
-4. Escribe python hola_mundo.py y presiona Enter.
+4. Escribe `python hola_mundo.py` y presiona Enter.
 
 Verás `Hola Mundo` impreso en la terminal.
 
