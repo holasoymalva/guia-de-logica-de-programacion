@@ -1,7 +1,8 @@
 # Funciones en Python
-Las funciones en Python son una de las características más fundamentales y poderosas del lenguaje. Permiten la modularización del código, facilitan la reutilización y mejoran la claridad y mantenibilidad del programa. Este artículo proporciona una visión general de las funciones en Python, incluyendo su definición, uso y características clave.
+Las funciones en Python son una de las características más fundamentales y poderosas del lenguaje. Permiten la modularización del código, facilitan la reutilización y mejoran la claridad y mantenibilidad del programa. Esta seccion proporciona una visión general de las funciones en Python, incluyendo su definición, uso y características clave.
 
 ## ¿Qué es una Función en Python?
+
 Una función es un bloque de código que se organiza y utiliza para realizar una sola acción. Las funciones pueden tomar datos como entrada, procesar esos datos y devolver un resultado. En Python, las funciones se definen utilizando la palabra clave `def`, seguida de un nombre de función, paréntesis y dos puntos. Dentro de los paréntesis, se pueden especificar argumentos o parámetros que la función puede aceptar.
 
 ## Definición de una Función
