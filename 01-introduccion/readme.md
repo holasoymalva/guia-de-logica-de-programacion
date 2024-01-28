@@ -1,6 +1,6 @@
 # Introducción a Python
 
-Python es uno de los lenguajes de programación más populares y de rápido crecimiento en el mundo. Desde la creación de scripts simples hasta el desarrollo de sistemas complejos, Python ofrece una amplia gama de aplicaciones. Su diseño simple pero poderoso lo hace accesible para principiantes, mientras que su robustez satisface las necesidades de los profesionales experimentados. En este artículo, exploraremos qué es Python, cómo instalarlo y configurar el entorno, y daremos nuestros primeros pasos escribiendo un programa clásico: "Hola Mundo".
+Python es uno de los lenguajes de programación más populares y de rápido crecimiento en el mundo. Desde la creación de scripts simples hasta el desarrollo de sistemas complejos, Python ofrece una amplia gama de aplicaciones. Su diseño simple pero poderoso lo hace accesible para principiantes, mientras que su robustez satisface las necesidades de los profesionales experimentados. En esta seccion, exploraremos qué es Python, cómo instalarlo y configurar el entorno, y daremos nuestros primeros pasos escribiendo un programa clásico: "Hola Mundo".
 
 ### ¿Qué es Python?
 
